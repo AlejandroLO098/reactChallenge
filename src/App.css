@@ -1,3 +1,14 @@
+a {
+  display: block;
+}
+.nav-bar {
+  background-color: aquamarine;
+  color: azure;
+}
+li {
+  border: solid 1px green;
+  display: inline-block;
+}
 .App {
   text-align: center;
 }
